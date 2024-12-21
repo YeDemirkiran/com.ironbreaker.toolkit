@@ -1,0 +1,15 @@
+{
+	"name": "com.ironbreaker.toolkit",
+	"version": "0.1.0",
+	"displayName": "Ironbreaker Toolkit",
+	"description": "The core package for Ironbreaker utilities, consisting of helpers and extension classes.",
+	"unity": "2022.2",
+	"documentationUrl": "https://raw.githubusercontent.com/YeDemirkiran/ironbreaker-toolkit/refs/heads/main/README.md",
+	"changelogUrl": "https://raw.githubusercontent.com/YeDemirkiran/ironbreaker-toolkit/refs/heads/main/CHANGELOG.md",
+	"licensesUrl": "https://raw.githubusercontent.com/YeDemirkiran/ironbreaker-toolkit/refs/heads/main/LICENSE.md",
+	"author": {
+	  "name": "Ironbreaker Games",
+	  "email": "yedemirkiran27@gmail.com",
+	  "url": "https://github.com/YeDemirkiran"
+	}
+  }
